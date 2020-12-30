@@ -1,0 +1,459 @@
+607781008-Mar-2020 16:08:05   Advertising Initiated
+08-Mar-2020 16:08:05   Contact List Read - Total contacts to send: 6
+08-Mar-2020 16:08:05   Invoking Telegram Ads
+08-Mar-2020 16:08:05   Initiating Telegram Messages
+08-Mar-2020 16:08:19   Recipient Not Available in Telegram. Hari 
+08-Mar-2020 16:08:22   Telegram Message sent to Padhu 
+08-Mar-2020 16:08:26   Recipient Not Available in Telegram. Praba
+08-Mar-2020 16:08:31   Recipient Not Available in Telegram. Renganayagi
+08-Mar-2020 16:08:35   Recipient Not Available in Telegram. Lakshmanan
+08-Mar-2020 16:08:39   Recipient Not Available in Telegram. Gowri 
+08-Mar-2020 16:08:40   Telegram Ads Completed Successfully
+08-Mar-2020 16:08:45   Invoking SMS Ads
+08-Mar-2020 16:08:45   Initiating SMS Ads
+08-Mar-2020 16:08:53   SMS Ad Sent to: 9486077810
+08-Mar-2020 16:08:55   SMS Ad Sent to: 9385665188
+08-Mar-2020 16:08:57   SMS Ad Sent to: 9443936983
+08-Mar-2020 16:08:59   SMS Ad Sent to: 9486484810
+08-Mar-2020 16:09:01   SMS Ad Sent to: 9865987933
+08-Mar-2020 16:09:03   SMS Ad Sent to: 9751508828
+08-Mar-2020 16:09:04   SMS Ads Completed Successfully
+08-Mar-2020 16:09:09   Invoking WhatsApp Ads
+08-Mar-2020 16:09:09   WhatsApp Ad Initiated
+08-Mar-2020 16:09:31   WhatsApp Ad sent to: 9486077810
+08-Mar-2020 16:09:41   WhatsApp Ad sent to: 9385665188
+08-Mar-2020 16:09:50   WhatsApp Ad sent to: 9443936983
+08-Mar-2020 16:10:00   WhatsApp Ad sent to: 9486484810
+08-Mar-2020 16:10:09   WhatsApp Ad sent to: 9865987933
+08-Mar-2020 16:10:18   WhatsApp Ad sent to: 9751508828
+08-Mar-2020 16:10:20   Advertising Completed
+08-Mar-2020 16:21:13   Advertising Initiated
+08-Mar-2020 16:21:13   Contact List Read - Total contacts to send: 6
+08-Mar-2020 16:21:13   Invoking Telegram Ads
+08-Mar-2020 16:21:13   Initiating Telegram Messages
+08-Mar-2020 16:21:26   Recipient Not Available in Telegram. Hari 
+08-Mar-2020 16:21:30   Telegram Message sent to Padhu 
+08-Mar-2020 16:21:36   Recipient Not Available in Telegram. Praba
+08-Mar-2020 16:21:36   Error Occurred in Telegram Flow - The target Element was not specified for this activity. You should set its Target property or use this activity inside of a scope activity (Attach Browser, Open Browser, Open Application, Attach Window, Get Active Window, Element Scope activities).
+08-Mar-2020 16:21:41   Invoking WhatsApp Ads
+08-Mar-2020 16:21:41   WhatsApp Ad Initiated
+08-Mar-2020 16:22:02   WhatsApp Ad sent to: 9486077810
+08-Mar-2020 16:22:11   WhatsApp Ad sent to: 9385665188
+08-Mar-2020 16:22:47   Error Occurred in WhatsApp Flow - The UiElement is no longer valid
+08-Mar-2020 16:22:52   Invoking SMS Ads
+08-Mar-2020 16:22:52   Initiating SMS Ads
+08-Mar-2020 16:23:00   SMS Ad Sent to: 9486077810
+08-Mar-2020 16:23:02   SMS Ad Sent to: 9385665188
+08-Mar-2020 16:23:03   Error Occurred in SMS Flow - The target Element was not specified for this activity. You should set its Target property or use this activity inside of a scope activity (Attach Browser, Open Browser, Open Application, Attach Window, Get Active Window, Element Scope activities).
+08-Mar-2020 16:23:08   Advertising Completed
+08-Mar-2020 16:24:12   Advertising Initiated
+08-Mar-2020 16:24:12   ERROR OCCURRED - Could not find file 'C:\Users\Hari kowshick\Desktop\Proj_Advertisement\ContactList.csv'.
+08-Mar-2020 16:26:09   Advertising Initiated
+08-Mar-2020 16:26:09   Contact List Read - Total contacts to send: 6
+08-Mar-2020 16:26:09   Invoking Telegram Ads
+08-Mar-2020 16:26:09   Initiating Telegram Messages
+08-Mar-2020 16:26:22   Recipient Not Available in Telegram. Hari 
+08-Mar-2020 16:26:27   Telegram Message sent to Padhu 
+08-Mar-2020 16:26:31   Recipient Not Available in Telegram. Praba
+08-Mar-2020 16:26:35   Recipient Not Available in Telegram. Renganayagi
+08-Mar-2020 16:26:39   Recipient Not Available in Telegram. Lakshmanan
+08-Mar-2020 16:26:43   Recipient Not Available in Telegram. Gowri 
+08-Mar-2020 16:26:44   Telegram Ads Completed Successfully
+08-Mar-2020 16:26:49   Invoking WhatsApp Ads
+08-Mar-2020 16:26:49   WhatsApp Ad Initiated
+08-Mar-2020 16:27:11   WhatsApp Ad sent to: 9486077810
+08-Mar-2020 16:27:22   WhatsApp Ad sent to: 9385665188
+08-Mar-2020 16:27:33   WhatsApp Ad sent to: 9443936983
+08-Mar-2020 16:27:43   WhatsApp Ad sent to: 9486484810
+08-Mar-2020 16:27:53   WhatsApp Ad sent to: 9865987933
+08-Mar-2020 16:28:04   WhatsApp Ad sent to: 9751508828
+08-Mar-2020 16:28:04   WhatsApp Ads Completed Sucessfully
+08-Mar-2020 16:28:04   Invoking SMS Ads
+08-Mar-2020 16:28:05   Initiating SMS Ads
+08-Mar-2020 16:28:16   SMS Ad Sent to: 9486077810
+08-Mar-2020 16:28:19   SMS Ad Sent to: 9385665188
+08-Mar-2020 16:28:22   SMS Ad Sent to: 9443936983
+08-Mar-2020 16:28:25   SMS Ad Sent to: 9486484810
+08-Mar-2020 16:28:29   SMS Ad Sent to: 9865987933
+08-Mar-2020 16:28:32   SMS Ad Sent to: 9751508828
+08-Mar-2020 16:28:33   SMS Ads Completed Successfully
+08-Mar-2020 16:28:38   Advertising Completed
+30-Apr-2020 19:36:42   Advertising Initiated
+30-Apr-2020 19:36:43   Contact List Read - Total contacts to send: 6
+30-Apr-2020 19:36:43   Invoking Telegram Ads
+30-Apr-2020 19:36:43   Initiating Telegram Messages
+30-Apr-2020 19:37:27   Error Occurred in Telegram Flow - The UiElement is no longer valid
+30-Apr-2020 19:37:32   Invoking WhatsApp Ads
+30-Apr-2020 19:37:32   WhatsApp Ad Initiated
+30-Apr-2020 19:37:32   Error Occurred in WhatsApp Flow - The system cannot find the path specified. (Exception from HRESULT: 0x80070003)
+30-Apr-2020 19:37:37   Invoking SMS Ads
+30-Apr-2020 19:37:37   Initiating SMS Ads
+30-Apr-2020 19:37:54   Error Occurred in SMS Flow - The UiElement is no longer valid
+30-Apr-2020 19:37:59   Advertising Completed
+30-Apr-2020 19:57:15   WhatsApp Ad Initiated
+30-Apr-2020 19:57:24   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+30-Apr-2020 19:58:23   WhatsApp Ad Initiated
+30-Apr-2020 19:58:31   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+30-Apr-2020 19:59:43   WhatsApp Ad Initiated
+30-Apr-2020 20:00:10   WhatsApp Ad Initiated
+30-Apr-2020 20:00:18   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+30-Apr-2020 20:00:49   Advertising Initiated
+30-Apr-2020 20:00:49   Contact List Read - Total contacts to send: 6
+30-Apr-2020 20:00:49   Invoking Telegram Ads
+30-Apr-2020 20:00:49   Initiating Telegram Messages
+30-Apr-2020 20:01:30   Error Occurred in Telegram Flow - Cannot find the UI element corresponding to this selector: <webctrl tag='INPUT' type='search' />
+30-Apr-2020 20:02:02   WhatsApp Ad Initiated
+30-Apr-2020 20:02:12   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+30-Apr-2020 20:04:33   WhatsApp Ad Initiated
+30-Apr-2020 20:05:04   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+30-Apr-2020 20:05:23   WhatsApp Ad Initiated
+30-Apr-2020 20:05:34   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+30-Apr-2020 20:06:06   WhatsApp Ad Initiated
+30-Apr-2020 20:06:38   WhatsApp Ad Initiated
+30-Apr-2020 20:06:49   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+01-May-2020 15:26:59   Advertising Initiated
+01-May-2020 15:26:59   Contact List Read - Total contacts to send: 6
+01-May-2020 15:26:59   Invoking Telegram Ads
+01-May-2020 15:26:59   Initiating Telegram Messages
+01-May-2020 15:27:30   Telegram Message sent to Hari 
+01-May-2020 15:27:34   Telegram Message sent to Padhu 
+01-May-2020 15:27:39   Telegram Message sent to Praba
+01-May-2020 15:27:43   Telegram Message sent to Renganayagi
+01-May-2020 15:27:47   Telegram Message sent to Lakshmanan
+01-May-2020 15:27:53   Telegram Message sent to Gowri 
+01-May-2020 15:28:23   Telegram Ads Completed Successfully
+01-May-2020 15:28:28   Invoking WhatsApp Ads
+01-May-2020 15:28:28   WhatsApp Ad Initiated
+01-May-2020 15:28:59   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 15:29:04   Invoking SMS Ads
+01-May-2020 15:29:04   Initiating SMS Ads
+01-May-2020 15:29:07   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 15:29:12   Advertising Completed
+01-May-2020 15:34:45   Advertising Initiated
+01-May-2020 15:34:45   Contact List Read - Total contacts to send: 6
+01-May-2020 15:34:45   Invoking Telegram Ads
+01-May-2020 15:34:45   Initiating Telegram Messages
+01-May-2020 15:34:55   Telegram Message sent to Hari 
+01-May-2020 15:34:59   Telegram Message sent to Padhu 
+01-May-2020 15:35:03   Telegram Message sent to Praba
+01-May-2020 15:35:07   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 15:35:11   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 15:35:15   Recipient Not Available in Telegram. Gowri 
+01-May-2020 15:35:16   Telegram Ads Completed Successfully
+01-May-2020 15:35:21   Invoking WhatsApp Ads
+01-May-2020 15:35:21   WhatsApp Ad Initiated
+01-May-2020 15:35:51   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 15:35:56   Invoking SMS Ads
+01-May-2020 15:35:56   Initiating SMS Ads
+01-May-2020 15:35:59   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 15:36:04   Advertising Completed
+01-May-2020 15:39:25   Advertising Initiated
+01-May-2020 15:39:25   Contact List Read - Total contacts to send: 6
+01-May-2020 15:39:25   Invoking Telegram Ads
+01-May-2020 15:39:25   Initiating Telegram Messages
+01-May-2020 15:39:35   Telegram Message sent to Hari 
+01-May-2020 15:39:39   Telegram Message sent to Padhu 
+01-May-2020 15:39:43   Telegram Message sent to Praba
+01-May-2020 15:39:47   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 15:39:51   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 15:39:55   Recipient Not Available in Telegram. Gowri 
+01-May-2020 15:40:25   Telegram Ads Completed Successfully
+01-May-2020 15:40:30   Invoking WhatsApp Ads
+01-May-2020 15:40:30   WhatsApp Ad Initiated
+01-May-2020 15:41:01   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 15:41:06   Invoking SMS Ads
+01-May-2020 15:41:06   Initiating SMS Ads
+01-May-2020 15:41:08   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 15:41:13   Advertising Completed
+01-May-2020 15:42:36   WhatsApp Ad Initiated
+01-May-2020 15:43:07   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 15:50:20   Advertising Initiated
+01-May-2020 15:50:20   Contact List Read - Total contacts to send: 6
+01-May-2020 15:50:20   Invoking Telegram Ads
+01-May-2020 15:50:20   Initiating Telegram Messages
+01-May-2020 15:50:30   Telegram Message sent to Hari 
+01-May-2020 15:50:34   Telegram Message sent to Padhu 
+01-May-2020 15:50:38   Telegram Message sent to Praba
+01-May-2020 15:50:43   Telegram Message sent to Renganayagi
+01-May-2020 15:50:47   Telegram Message sent to Lakshmanan
+01-May-2020 15:50:51   Telegram Message sent to Gowri 
+01-May-2020 15:51:21   Telegram Ads Completed Successfully
+01-May-2020 15:51:26   Invoking WhatsApp Ads
+01-May-2020 15:51:26   WhatsApp Ad Initiated
+01-May-2020 15:51:57   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 15:52:02   Invoking SMS Ads
+01-May-2020 15:52:02   Initiating SMS Ads
+01-May-2020 15:52:05   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 15:52:10   Advertising Completed
+01-May-2020 15:59:59   Advertising Initiated
+01-May-2020 15:59:59   Contact List Read - Total contacts to send: 6
+01-May-2020 15:59:59   Invoking Telegram Ads
+01-May-2020 15:59:59   Initiating Telegram Messages
+01-May-2020 16:00:09   Telegram Message sent to Hari 
+01-May-2020 16:00:13   Telegram Message sent to Padhu 
+01-May-2020 16:00:16   Telegram Message sent to Praba
+01-May-2020 16:00:20   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 16:00:24   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 16:00:29   Recipient Not Available in Telegram. Gowri 
+01-May-2020 16:00:29   Telegram Ads Completed Successfully
+01-May-2020 16:00:35   Invoking WhatsApp Ads
+01-May-2020 16:00:35   WhatsApp Ad Initiated
+01-May-2020 16:01:05   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 16:01:10   Invoking SMS Ads
+01-May-2020 16:01:10   Initiating SMS Ads
+01-May-2020 16:01:13   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 16:01:18   Advertising Completed
+01-May-2020 16:02:24   Advertising Initiated
+01-May-2020 16:02:24   Contact List Read - Total contacts to send: 6
+01-May-2020 16:02:24   Invoking Telegram Ads
+01-May-2020 16:02:25   Initiating Telegram Messages
+01-May-2020 16:02:35   Telegram Message sent to Hari 
+01-May-2020 16:02:38   Telegram Message sent to Padhu 
+01-May-2020 16:02:42   Telegram Message sent to Praba
+01-May-2020 16:02:46   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 16:02:50   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 16:02:55   Recipient Not Available in Telegram. Gowri 
+01-May-2020 16:02:55   Telegram Ads Completed Successfully
+01-May-2020 16:03:00   Invoking WhatsApp Ads
+01-May-2020 16:03:01   WhatsApp Ad Initiated
+01-May-2020 16:03:31   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='WhatsApp' />
+01-May-2020 16:03:36   Invoking SMS Ads
+01-May-2020 16:03:36   Initiating SMS Ads
+01-May-2020 16:03:39   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 16:03:44   Advertising Completed
+01-May-2020 17:39:07   Advertising Initiated
+01-May-2020 17:39:07   Contact List Read - Total contacts to send: 6
+01-May-2020 17:39:07   Invoking Telegram Ads
+01-May-2020 17:39:07   Initiating Telegram Messages
+01-May-2020 17:39:17   Telegram Message sent to Hari 
+01-May-2020 17:39:21   Telegram Message sent to Padhu 
+01-May-2020 17:39:24   Telegram Message sent to Praba
+01-May-2020 17:39:28   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 17:39:32   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 17:39:36   Recipient Not Available in Telegram. Gowri 
+01-May-2020 17:39:37   Telegram Ads Completed Successfully
+01-May-2020 17:39:42   Invoking WhatsApp Ads
+01-May-2020 17:39:42   WhatsApp Ad Initiated
+01-May-2020 17:40:13   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 17:40:18   Invoking SMS Ads
+01-May-2020 17:40:18   Initiating SMS Ads
+01-May-2020 17:40:22   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 17:40:27   Advertising Completed
+01-May-2020 17:41:55   Advertising Initiated
+01-May-2020 17:41:55   Contact List Read - Total contacts to send: 6
+01-May-2020 17:41:55   Invoking Telegram Ads
+01-May-2020 17:41:55   Initiating Telegram Messages
+01-May-2020 17:42:05   Telegram Message sent to Hari 
+01-May-2020 17:42:09   Telegram Message sent to Padhu 
+01-May-2020 17:42:13   Telegram Message sent to Praba
+01-May-2020 17:42:17   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 17:42:21   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 17:42:25   Recipient Not Available in Telegram. Gowri 
+01-May-2020 17:42:26   Telegram Ads Completed Successfully
+01-May-2020 17:42:31   Invoking WhatsApp Ads
+01-May-2020 17:42:31   WhatsApp Ad Initiated
+01-May-2020 17:43:01   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 17:43:06   Invoking SMS Ads
+01-May-2020 17:43:06   Initiating SMS Ads
+01-May-2020 17:43:09   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 17:43:14   Advertising Completed
+01-May-2020 17:55:48   Advertising Initiated
+01-May-2020 17:55:48   Contact List Read - Total contacts to send: 6
+01-May-2020 17:55:48   Invoking Telegram Ads
+01-May-2020 17:55:48   Initiating Telegram Messages
+01-May-2020 17:55:58   Telegram Message sent to Hari 
+01-May-2020 17:56:02   Telegram Message sent to Padhu 
+01-May-2020 17:56:06   Telegram Message sent to Praba
+01-May-2020 17:56:10   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 17:56:14   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 17:56:18   Recipient Not Available in Telegram. Gowri 
+01-May-2020 17:56:19   Telegram Ads Completed Successfully
+01-May-2020 17:56:24   Invoking WhatsApp Ads
+01-May-2020 17:56:24   WhatsApp Ad Initiated
+01-May-2020 17:56:54   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 17:56:59   Invoking SMS Ads
+01-May-2020 17:56:59   Initiating SMS Ads
+01-May-2020 17:57:02   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 17:57:07   Advertising Completed
+01-May-2020 18:26:10   Advertising Initiated
+01-May-2020 18:26:10   Contact List Read - Total contacts to send: 6
+01-May-2020 18:26:10   Invoking Telegram Ads
+01-May-2020 18:26:10   Initiating Telegram Messages
+01-May-2020 18:26:20   Telegram Message sent to Hari 
+01-May-2020 18:26:24   Telegram Message sent to Padhu 
+01-May-2020 18:26:28   Telegram Message sent to Praba
+01-May-2020 18:26:32   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 18:26:36   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 18:26:40   Recipient Not Available in Telegram. Gowri 
+01-May-2020 18:26:41   Telegram Ads Completed Successfully
+01-May-2020 18:26:46   Invoking WhatsApp Ads
+01-May-2020 18:26:46   WhatsApp Ad Initiated
+01-May-2020 18:27:17   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='explorer.exe' cls='CabinetWClass' title='app-2.2017.6' />
+01-May-2020 18:27:22   Invoking SMS Ads
+01-May-2020 18:27:22   Initiating SMS Ads
+01-May-2020 18:27:25   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 18:27:30   Advertising Completed
+01-May-2020 19:33:55   Advertising Initiated
+01-May-2020 19:33:55   Contact List Read - Total contacts to send: 6
+01-May-2020 19:33:55   Invoking Telegram Ads
+01-May-2020 19:33:55   Initiating Telegram Messages
+01-May-2020 19:34:05   Telegram Message sent to Hari 
+01-May-2020 19:34:09   Telegram Message sent to Padhu 
+01-May-2020 19:34:13   Telegram Message sent to Praba
+01-May-2020 19:34:18   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 19:34:22   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 19:34:26   Recipient Not Available in Telegram. Gowri 
+01-May-2020 19:34:56   Telegram Ads Completed Successfully
+01-May-2020 19:35:01   Invoking WhatsApp Ads
+01-May-2020 19:35:01   WhatsApp Ad Initiated
+01-May-2020 19:35:31   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 19:35:36   Invoking SMS Ads
+01-May-2020 19:35:37   Initiating SMS Ads
+01-May-2020 19:35:39   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 19:35:44   Advertising Completed
+01-May-2020 19:48:18   WhatsApp Ad Initiated
+01-May-2020 19:48:49   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 19:51:47   Advertising Initiated
+01-May-2020 19:51:47   Contact List Read - Total contacts to send: 6
+01-May-2020 19:51:47   Invoking Telegram Ads
+01-May-2020 19:51:47   Initiating Telegram Messages
+01-May-2020 19:51:58   Error Occurred in Telegram Flow - The target Element was not specified for this activity. You should set its Target property or use this activity inside of a scope activity (Attach Browser, Open Browser, Open Application, Attach Window, Get Active Window, Element Scope activities).
+01-May-2020 19:52:03   Invoking WhatsApp Ads
+01-May-2020 19:52:03   WhatsApp Ad Initiated
+01-May-2020 19:52:09   WhatsApp Ad Initiated
+01-May-2020 19:52:40   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 19:52:53   WhatsApp Ad Initiated
+01-May-2020 19:53:04   WhatsApp Ad Initiated
+01-May-2020 19:53:07   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+01-May-2020 20:07:23   Initiating Telegram Messages
+01-May-2020 20:07:29   Error Occurred in Telegram Flow - Object reference not set to an instance of an object.
+01-May-2020 20:08:23   Advertising Initiated
+01-May-2020 20:08:23   Contact List Read - Total contacts to send: 6
+01-May-2020 20:08:23   Invoking Telegram Ads
+01-May-2020 20:08:23   Initiating Telegram Messages
+01-May-2020 20:08:33   Telegram Message sent to Hari 
+01-May-2020 20:08:37   Telegram Message sent to Padhu 
+01-May-2020 20:08:41   Telegram Message sent to Praba
+01-May-2020 20:08:45   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 20:08:49   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 20:08:53   Recipient Not Available in Telegram. Gowri 
+01-May-2020 20:09:23   Telegram Ads Completed Successfully
+01-May-2020 20:09:28   Invoking WhatsApp Ads
+01-May-2020 20:09:28   WhatsApp Ad Initiated
+01-May-2020 20:09:59   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 20:10:04   Invoking SMS Ads
+01-May-2020 20:10:04   Initiating SMS Ads
+01-May-2020 20:10:07   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 20:10:12   Advertising Completed
+01-May-2020 20:11:30   WhatsApp Ad Initiated
+01-May-2020 20:11:32   Error Occurred in WhatsApp Flow - Object reference not set to an instance of an object.
+01-May-2020 20:13:24   Advertising Initiated
+01-May-2020 20:13:24   Contact List Read - Total contacts to send: 6
+01-May-2020 20:13:24   Invoking Telegram Ads
+01-May-2020 20:13:24   Initiating Telegram Messages
+01-May-2020 20:13:31   Error Occurred in Telegram Flow - The target Element was not specified for this activity. You should set its Target property or use this activity inside of a scope activity (Attach Browser, Open Browser, Open Application, Attach Window, Get Active Window, Element Scope activities).
+01-May-2020 20:15:51   Advertising Initiated
+01-May-2020 20:15:51   Contact List Read - Total contacts to send: 6
+01-May-2020 20:15:51   Invoking Telegram Ads
+01-May-2020 20:15:51   WhatsApp Ad Initiated
+01-May-2020 20:16:26   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Share on WhatsApp - Google Chrome' /><ctrl name='Open WhatsApp' role='push button' /><ctrl name='Open WhatsApp' role='pane' />
+01-May-2020 20:16:31   Invoking SMS Ads
+01-May-2020 20:16:31   Initiating Telegram Messages
+01-May-2020 20:16:37   Error Occurred in Telegram Flow - The target Element was not specified for this activity. You should set its Target property or use this activity inside of a scope activity (Attach Browser, Open Browser, Open Application, Attach Window, Get Active Window, Element Scope activities).
+01-May-2020 20:16:42   Invoking WhatsApp Ads
+01-May-2020 20:16:42   Initiating SMS Ads
+01-May-2020 20:17:11   Advertising Initiated
+01-May-2020 20:17:11   Contact List Read - Total contacts to send: 6
+01-May-2020 20:17:11   Invoking Telegram Ads
+01-May-2020 20:17:11   WhatsApp Ad Initiated
+01-May-2020 20:17:46   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Share on WhatsApp - Google Chrome' /><ctrl name='Open WhatsApp' role='push button' /><ctrl name='Open WhatsApp' role='pane' />
+01-May-2020 20:17:47   Invoking SMS Ads
+01-May-2020 20:17:47   Initiating Telegram Messages
+01-May-2020 20:17:57   Telegram Message sent to Hari 
+01-May-2020 20:18:01   Telegram Message sent to Padhu 
+01-May-2020 20:18:05   Telegram Message sent to Praba
+01-May-2020 20:18:09   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 20:18:13   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 20:18:18   Recipient Not Available in Telegram. Gowri 
+01-May-2020 20:18:18   Telegram Ads Completed Successfully
+01-May-2020 20:18:23   Invoking WhatsApp Ads
+01-May-2020 20:18:23   Initiating SMS Ads
+01-May-2020 20:18:26   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 20:18:31   Advertising Completed
+01-May-2020 20:22:17   Advertising Initiated
+01-May-2020 20:22:17   Contact List Read - Total contacts to send: 6
+01-May-2020 20:22:17   Invoking Telegram Ads
+01-May-2020 20:22:18   WhatsApp Ad Initiated
+01-May-2020 20:22:52   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Share on WhatsApp - Google Chrome' /><ctrl name='Open WhatsApp' role='push button' /><ctrl name='Open WhatsApp' role='pane' />
+01-May-2020 20:22:53   Invoking SMS Ads
+01-May-2020 20:22:53   Initiating Telegram Messages
+01-May-2020 20:29:55   Advertising Initiated
+01-May-2020 20:29:55   Contact List Read - Total contacts to send: 6
+01-May-2020 20:29:55   Invoking Telegram Ads
+01-May-2020 20:29:55   Initiating Telegram Messages
+01-May-2020 20:30:04   Telegram Message sent to Hari 
+01-May-2020 20:30:08   Telegram Message sent to Padhu 
+01-May-2020 20:30:12   Telegram Message sent to Praba
+01-May-2020 20:30:16   Telegram Message sent to Renganayagi
+01-May-2020 20:30:19   Telegram Message sent to Lakshmanan
+01-May-2020 20:30:23   Telegram Message sent to Gowri 
+01-May-2020 20:30:53   Telegram Ads Completed Successfully
+01-May-2020 20:30:58   Invoking WhatsApp Ads
+01-May-2020 20:30:58   WhatsApp Ad Initiated
+01-May-2020 20:32:31   Advertising Initiated
+01-May-2020 20:32:31   Contact List Read - Total contacts to send: 6
+01-May-2020 20:32:31   Invoking Telegram Ads
+01-May-2020 20:32:31   Initiating Telegram Messages
+01-May-2020 20:32:42   Telegram Message sent to Hari 
+01-May-2020 20:32:45   Telegram Message sent to Padhu 
+01-May-2020 20:32:49   Telegram Message sent to Praba
+01-May-2020 20:32:53   Recipient Not Available in Telegram. Renganayagi
+01-May-2020 20:32:57   Recipient Not Available in Telegram. Lakshmanan
+01-May-2020 20:33:01   Recipient Not Available in Telegram. Gowri 
+01-May-2020 20:33:02   Telegram Ads Completed Successfully
+01-May-2020 20:33:07   Invoking WhatsApp Ads
+01-May-2020 20:33:07   WhatsApp Ad Initiated
+01-May-2020 20:33:38   Error Occurred in WhatsApp Flow - Cannot find the UI element corresponding to this selector: <wnd app='whatsapp.exe' cls='Chrome_WidgetWin_1' title='WhatsApp' />
+01-May-2020 20:33:43   Invoking SMS Ads
+01-May-2020 20:33:43   Initiating SMS Ads
+01-May-2020 20:33:45   Error Occurred in SMS Flow - Key not valid for use in specified state.
+
+01-May-2020 20:33:50   Advertising Completed
+01-May-2020 20:47:55   Advertising Initiated
+01-May-2020 20:47:57   Contact List Read - Total contacts to send: 6
+01-May-2020 20:47:57   Invoking Telegram Ads
+01-May-2020 20:47:57   Initiating Telegram Messages
+01-May-2020 20:48:37   Error Occurred in Telegram Flow - Cannot communicate with the browser, please check the UiPath extension.
+01-May-2020 20:48:45   Invoking WhatsApp Ads
+01-May-2020 20:48:46   WhatsApp Ad Initiated
+01-May-2020 20:48:46   Error Occurred in WhatsApp Flow - The system cannot find the path specified. (Exception from HRESULT: 0x80070003)
+01-May-2020 20:48:51   Invoking SMS Ads
+01-May-2020 20:48:52   Initiating SMS Ads
+01-May-2020 20:49:15   Error Occurred in SMS Flow - Cannot communicate with the browser, please check the UiPath extension.
+01-May-2020 20:49:20   Advertising Completed
+01-May-2020 20:53:26   WhatsApp Ad Initiated
+01-May-2020 20:53:59   Error Occurred in WhatsApp Flow - Cannot communicate with the browser, please check the UiPath extension.
+01-May-2020 20:57:55   WhatsApp Ad Initiated
+01-May-2020 20:58:21   Error Occurred in WhatsApp Flow - Cannot communicate with the browser, please check the UiPath extension.
+01-May-2020 20:58:53   WhatsApp Ad Initiated
+01-May-2020 20:59:17   Error Occurred in WhatsApp Flow - Cannot communicate with the browser, please check the UiPath extension.
+01-May-2020 21:06:54   WhatsApp Ad Initiated
+01-May-2020 21:07:25   WhatsApp Ads Completed Sucessfully
+01-May-2020 21:08:00   WhatsApp Ad Initiated
+01-May-2020 21:08:26   WhatsApp Ads Completed Sucessfully
+03-May-2020 12:06:26   WhatsApp Ad Initiated
+03-May-2020 12:07:05   WhatsApp Ads Completed Sucessfully
+03-May-2020 12:07:10   Invoking SMS Ads
